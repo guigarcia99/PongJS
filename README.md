@@ -9,7 +9,7 @@ Pong in .JS developed on p5.js for the Alura Programming Logic course. || Pong e
 | :rocket: URL         | https://editor.p5js.org/guigarcia99/full/MiLwPSF_4
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-(https://imgur.com/a/HPDzcqw)#vitrinedev
+![](https://imgur.com/a/HPDzcqw) #vitrinedev
 
 ## Detalhes do Projeto
 
